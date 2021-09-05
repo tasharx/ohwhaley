@@ -1,0 +1,7 @@
+library(devtools)
+use_r("say")
+use_r("phrases")
+use_gpl3_license()
+use_pipe()
+use_testthat()
+use_test("say")
