@@ -1,7 +1,7 @@
 #' Whale pun phrases used in say()
 #' @keywords internal
 phrases <-  c(
-  "According to all known laws of aviation,",
+  "Dogs are cute",
   "there is no way a bee should be able to fly.",
   "Its wings are too small to get",
   "its fat little body off the ground.",
