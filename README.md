@@ -4,6 +4,8 @@
 # ohwhaley
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/tasharx/ohwhaley/workflows/R-CMD-check/badge.svg)](https://github.com/tasharx/ohwhaley/actions)
 <!-- badges: end -->
 
 Need a little cheer? Whaley is here to help!
